@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Beneficios.h(14,41): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Beneficios.h(15,64): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Beneficios.h(16,48): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(104,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(100,15): warning C4101: 'aux2': variable local sin referencia
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(100,9): warning C4101: 'aux1': variable local sin referencia
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(98,7): warning C4101: 'i': variable local sin referencia
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Controlador.h(84,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Controlador.h(224,1): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Controlador.h(237,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Source.cpp(13,22): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\HashTable_Beneficios.h(31,27): warning C4244: 'argumento': conversión de 'float' a 'size_t'; posible pérdida de datos
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\HashTable_Beneficios.h(30): message : al compilar la función del miembro clase plantilla "bool HashTableBeneficio<Beneficio *>::insert(Beneficio *)"
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(206): message : Vea la referencia a la creación de una instancia de la función plantilla "bool HashTableBeneficio<Beneficio *>::insert(Beneficio *)" que se está compilando
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\Usuario.h(26): message : Vea la referencia a la creación de una instancia de clase plantilla "HashTableBeneficio<Beneficio *>" que se está compilando
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\HashTable_Beneficios.h(57,21): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\HashTable_Beneficios.h(50): message : al compilar la función del miembro clase plantilla "size_t HashTableBeneficio<Beneficio *>::my_Hash(size_t)"
+C:\Users\Principal\source\repos\ProjectTF\ProjectTF\HashTable_Beneficios.h(31): message : Vea la referencia a la creación de una instancia de la función plantilla "size_t HashTableBeneficio<Beneficio *>::my_Hash(size_t)" que se está compilando
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProjectTF.vcxproj -> C:\Users\Principal\source\repos\ProjectTF\Debug\ProjectTF.exe
